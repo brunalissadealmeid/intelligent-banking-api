@@ -1,0 +1,15 @@
+/app/src/main/java/com/example/intelligentbanking/dto/UserDto.java
+/app/src/main/java/com/example/intelligentbanking/exception/ResourceNotFoundException.java
+/app/src/main/java/com/example/intelligentbanking/controller/UserController.java
+/app/src/main/java/com/example/intelligentbanking/exception/AccountAlreadyExistsException.java
+/app/src/main/java/com/example/intelligentbanking/service/AccountService.java
+/app/src/main/java/com/example/intelligentbanking/service/UserService.java
+/app/src/main/java/com/example/intelligentbanking/repository/AccountRepository.java
+/app/src/main/java/com/example/intelligentbanking/user/User.java
+/app/src/main/java/com/example/intelligentbanking/IntelligentBankingApiApplication.java
+/app/src/main/java/com/example/intelligentbanking/exception/UserAlreadyExistsException.java
+/app/src/main/java/com/example/intelligentbanking/repository/UserRepository.java
+/app/src/main/java/com/example/intelligentbanking/exception/GlobalExceptionHandler.java
+/app/src/main/java/com/example/intelligentbanking/controller/AccountController.java
+/app/src/main/java/com/example/intelligentbanking/account/Account.java
+/app/src/main/java/com/example/intelligentbanking/dto/AccountDto.java

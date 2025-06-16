@@ -35,7 +35,7 @@ Cluster-based recommendation (K-Means) based on user profile and behavior.
 
 ---
 
-## ⚙ Tech Stack
+##  Tech Stack
 
 - Java 17
 - Spring Boot
